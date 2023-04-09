@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harshit Pandey</h1>
-<h3 align="center">A Learner ...</h3>
+##  Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Harshit Pandey!](https://github.com/harshit1142) !
+
+
+##  About Me
+
+Hey My Name is Harshit Pandey, I'm a 1st year student at Motilal Nehru National Institute of Technology _Allahabad_ (_MNNIT_ or NIT _Allahabad_), formerly Motilal Nehru Regional Engineering College (MNREC).I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1142&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1142" /> </p>
 
