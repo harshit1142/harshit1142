@@ -1,29 +1,62 @@
-##  Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Harshit Pandey](https://github.com/harshit1142) !
 
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Welcome+to+my+Profile!" align="middle" alt=" Hey, I'm Harshit Welcome to my Profile! animated typed out">
 
-##  About Me
-
-Hey My Name is Harshit Pandey, I'm a 1st year student at Motilal Nehru National Institute of Technology _Allahabad_ (_MNNIT_ or NIT _Allahabad_), formerly Motilal Nehru Regional Engineering College (MNREC).I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+<hr></hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1142&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1142" /> </p>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit1142" alt="harshit1142" /></a> </p>
+💡 &nbsp; I like to explore new technologies and develop web apps and sites.\
+🎓 &nbsp; I'm currently studying at Motilal National Institute of Technology, Allahabad, India.\
+🌱 &nbsp; I'm on track to learning more about Web and UI design.\
+✍️ &nbsp; Programming is the most important part of my life, but not the only one, I also play badminton and cricket as hobbies .\
+💬 &nbsp; Feel free to reach out to me.\
+✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
-- 📫 How to reach me **harshitpandey98765@gmail.com**
+### 🛠 &nbsp;Tech Stack
+<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshit-pandey-312b78245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-pandey-312b78245" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshit98765" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshit98765" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshitinfinix8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshitinfinix8" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshit98765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit98765" height="30" width="40" /></a>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-hotpink.svg?style=flat&logo=Bootstrap&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/Mongodb-%23007ACC.svg?style=flat&logo=Mongodb&logoColor=white)&nbsp;
+![JAVA](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+
+
+<details>
+<summary>More Skills</summary>
+
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+</details>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/harshit1142">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit1142&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshit1142&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&theme=buefy-dark&hide_border=true&background=1a1b27"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshit1142&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit1142&show_icons=true&locale=en&layout=compact" alt="harshit1142" /></p>
+### 🤝🏻 &nbsp;Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit1142&show_icons=true&locale=en" alt="harshit1142" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&" alt="harshit1142" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/harshit-pandey-312b78245/"><img src="https://img.shields.io/badge/-harshit1142?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
