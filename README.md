@@ -57,6 +57,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="">
 <a href="https://www.linkedin.com/in/harshit-pandey-312b78245/"><img src="https://img.shields.io/badge/-harshit1142?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
