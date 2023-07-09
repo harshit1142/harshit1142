@@ -3,7 +3,7 @@
 
 <hr></hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1142&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1142" /> </p>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I like to explore new technologies and develop web apps and sites.\
