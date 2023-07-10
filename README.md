@@ -4,7 +4,7 @@
 <hr></hr>
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me :
 
 💡 &nbsp; I like to explore new technologies and develop web apps and sites.\
 🎓 &nbsp; I'm currently studying at Motilal National Institute of Technology, Allahabad, India.\
