@@ -55,7 +55,13 @@
   </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit1142&theme=chartreuse_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit1142&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshit1142&theme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit1142&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshit1142&theme=chartreuse_dark&utcOffset=8)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="">
