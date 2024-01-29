@@ -21,6 +21,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer-CA4245?style=flat&logo=framer&logoColor=black)
+![Socket.io](https://img.shields.io/badge/socket.io-%23404d50?style=flat&logo=socket.io&logoColor=yellow)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
