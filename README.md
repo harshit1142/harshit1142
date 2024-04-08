@@ -13,6 +13,24 @@
 💬 &nbsp; Feel free to reach out to me.\
 ✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
+### 💻Contributed to :
+* [matrix-movies-website](https://github.com/harshit1142/matrix-movies-website-hacktoberfest)
+* [Facts-Website](https://github.com/harshit1142/Facts-Website)
+* [OAU-GDSC-CLOUD](https://github.com/harshit1142/OAU-GDSC-CLOUD-Hacktoberfest_2023)
+* [LandingPages](https://github.com/harshit1142/LandingPages)
+* [Temperature-Converter](https://github.com/harshit1142/Temperature-Converter)
+* [SocialHub](https://github.com/harshit1142/SocialHub)
+* [Hacktoberfest](https://github.com/harshit1142/Hacktoberfest)
+* [ProjectsHut](https://github.com/harshit1142/ProjectsHut)
+* [HackToberFest2023](https://github.com/harshit1142/HackToberFest2023)
+
+### ⚒️ Projects :
+* [Quizopia](https://github.com/harshit1142/Quizopia)
+* [VeilVox](https://github.com/harshit1142/VeilVox)
+* [Portfolio](https://github.com/harshit1142/portfolio)
+* [Foodie](https://github.com/harshit1142/Foodie)
+* [Insight](https://github.com/harshit1142/Insight)
+
 ### 🛠 &nbsp;Tech Stack
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
 
