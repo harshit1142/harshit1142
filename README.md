@@ -15,6 +15,7 @@
 
 ### 💻Contributed to :
 * [matrix-movies-website](https://github.com/harshit1142/matrix-movies-website-hacktoberfest)
+* [student-assistant-client](https://github.com/Harshitpandey993/student-assistant-client)
 * [Facts-Website](https://github.com/harshit1142/Facts-Website)
 * [OAU-GDSC-CLOUD](https://github.com/harshit1142/OAU-GDSC-CLOUD-Hacktoberfest_2023)
 * [LandingPages](https://github.com/harshit1142/LandingPages)
