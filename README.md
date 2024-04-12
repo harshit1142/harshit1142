@@ -14,16 +14,16 @@
 ✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
 ### 💻Contributed to :
-* [matrix-movies-website](https://github.com/harshit1142/matrix-movies-website-hacktoberfest)
+* [matrix-movies-website](https://github.com/roannav/matrix-movies-website-hacktoberfest)
 * [student-assistant-client](https://github.com/Harshitpandey993/student-assistant-client)
-* [Facts-Website](https://github.com/harshit1142/Facts-Website)
-* [OAU-GDSC-CLOUD](https://github.com/harshit1142/OAU-GDSC-CLOUD-Hacktoberfest_2023)
-* [LandingPages](https://github.com/harshit1142/LandingPages)
-* [Temperature-Converter](https://github.com/harshit1142/Temperature-Converter)
-* [SocialHub](https://github.com/harshit1142/SocialHub)
-* [Hacktoberfest](https://github.com/harshit1142/Hacktoberfest)
-* [ProjectsHut](https://github.com/harshit1142/ProjectsHut)
-* [HackToberFest2023](https://github.com/harshit1142/HackToberFest2023)
+* [Facts-Website](https://github.com/minhaj-313/Facts-Website)
+* [OAU-GDSC-CLOUD](https://github.com/softcreations01/OAU-GDSC-CLOUD-Hacktoberfest_2023)
+* [LandingPages](https://github.com/0silverback0/LandingPages)
+* [Temperature-Converter](https://github.com/Neel-07/Temperature-Converter)
+* [SocialHub](https://github.com/CareerDevelopmentHub/SocialHub)
+* [Hacktoberfest](https://github.com/Niraj-1729/Hacktoberfest)
+* [ProjectsHut](https://github.com/priyankarpal/projectshut)
+* [HackToberFest2023](https://github.com/thamesweb/HackToberFest2023)
 
 ### ⚒️ Projects :
 * [Quizopia](https://github.com/harshit1142/Quizopia)
