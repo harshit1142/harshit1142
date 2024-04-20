@@ -27,6 +27,7 @@
 
 ### ⚒️ Projects :
 * [Quizopia](https://github.com/harshit1142/Quizopia)
+* [Collabor8](https://github.com/harshit1142/collabor8)
 * [VeilVox](https://github.com/harshit1142/VeilVox)
 * [Portfolio](https://github.com/harshit1142/portfolio)
 * [Foodie](https://github.com/harshit1142/Foodie)
