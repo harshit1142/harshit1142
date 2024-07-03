@@ -14,6 +14,11 @@
 💬 &nbsp; Feel free to reach out to me.\
 ✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
+### ⭐ Live Projects :
+* [GoFood](https://gofood-kappa.vercel.app/)
+* [Portfolio](https://harshitpandey0024.netlify.app/)
+* [Insight](https://harshit1142.github.io/Insight/)
+
 ### 💻Contributed to :
 * [matrix-movies-website](https://github.com/roannav/matrix-movies-website-hacktoberfest)
 * [student-assistant-client](https://github.com/Harshitpandey993/student-assistant-client)
@@ -31,7 +36,7 @@
 * [Collabor8](https://github.com/harshit1142/collabor8)
 * [VeilVox](https://github.com/harshit1142/VeilVox)
 * [Portfolio](https://github.com/harshit1142/portfolio)
-* [Foodie](https://github.com/harshit1142/Foodie)
+* [GoFood](https://github.com/harshit1142/GoFood)
 * [Insight](https://github.com/harshit1142/Insight)
 
 ### 🛠 &nbsp;Tech Stack
