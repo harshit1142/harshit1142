@@ -15,6 +15,7 @@
 ✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
 ### ⭐ Live Projects :
+* [Quizopia](https://quizopia.vercel.app/)
 * [GoFood](https://gofood-kappa.vercel.app/)
 * [Portfolio](https://harshitpandey0024.netlify.app/)
 * [Insight](https://harshit1142.github.io/Insight/)
