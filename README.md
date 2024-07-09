@@ -17,6 +17,7 @@
 ### ⭐ Live Projects :
 * [Quizopia](https://quizopia.vercel.app/)
 * [GoFood](https://gofood-kappa.vercel.app/)
+* [VeilVox](https://668c0f5a31558d6273631777--precious-klepon-33af0f.netlify.app/)
 * [Insight](https://harshit1142.github.io/Insight/)
 
 ### 💻Contributed to :
