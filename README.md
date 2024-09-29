@@ -94,7 +94,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="">
-<a href="https://www.linkedin.com/in/harshit-pandey-312b78245/"><img src="https://img.shields.io/badge/-harshit1142?style=flat&logo=linkedin&logoColor=blue"/></a>
+<a href="https://www.linkedin.com/in/harshit-pandey-312b78245/"><img src="https://img.shields.io/badge/-harshit1142?style=round&logo=linkedin&logoColor=white"/></a>
 <!-- <a href="https://harshitpandey0024.netlify.app/" ><img src="https://img.shields.io/badge/-harshit1142?style=flat&logo=Netlify&logoColor=white"/></a> -->
 </p>
 
