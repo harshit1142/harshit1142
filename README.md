@@ -1,5 +1,6 @@
+![Harshit Pandey_2](https://github.com/user-attachments/assets/7d340834-387f-4249-9355-f107e32dbc25)
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Pandey" align="middle" alt="Hey, I'm Harshit Pandey, Welcome to my Profile! animated typed out">
+ <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Harshit+Pandey" align="middle" alt="Hey, I'm Harshit Pandey, Welcome to my Profile! animated typed out">
 <img  src="borderseperator.gif">
 
 
