@@ -71,17 +71,18 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+<!-- * 
 <div align="center">
 <a href="https://github.com/harshit1142">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshit1142&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshit1142&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&theme=buefy-dark&hide_border=true&background=1a1b27"/>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit1142&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
   </a>
 </div>
+-->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&theme=buefy-dark&hide_border=true&background=1a1b27"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshit1142&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit1142&theme=chartreuse_dark)
 
