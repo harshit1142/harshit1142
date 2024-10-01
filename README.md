@@ -27,6 +27,7 @@
 * [Facts-Website](https://github.com/minhaj-313/Facts-Website)
 * [AffiCodes-Hacktoberfest2024](https://github.com/DevAffan/AffiCodes-Hacktoberfest2024)
 * [OAU-GDSC-CLOUD](https://github.com/softcreations01/OAU-GDSC-CLOUD-Hacktoberfest_2023)
+* [DSA_Problems-Hacktoberfest-2024]([https://github.com/DevAffan/AffiCodes-Hacktoberfest2024](https://github.com/Saloni6111/DSA_Problems-Hacktoberfest-2024))
 * [LandingPages](https://github.com/0silverback0/LandingPages)
 * [Temperature-Converter](https://github.com/Neel-07/Temperature-Converter)
 * [SocialHub](https://github.com/CareerDevelopmentHub/SocialHub)
