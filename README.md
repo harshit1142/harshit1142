@@ -21,7 +21,7 @@
 * [VeilVox](https://668c0f5a31558d6273631777--precious-klepon-33af0f.netlify.app/)
 <!-- * [Insight](https://harshit1142.github.io/Insight/) -->
 
-### 💻Contributed to :
+### 💻 Contributed to :
 * [matrix-movies-website](https://github.com/roannav/matrix-movies-website-hacktoberfest)
 * [student-assistant-client](https://github.com/Harshitpandey993/student-assistant-client)
 * [Facts-Website](https://github.com/minhaj-313/Facts-Website)
@@ -34,6 +34,15 @@
 * [Hacktoberfest](https://github.com/Niraj-1729/Hacktoberfest)
 * [ProjectsHut](https://github.com/priyankarpal/projectshut)
 * [HackToberFest2023](https://github.com/thamesweb/HackToberFest2023)
+
+### 🚀 My Open-Source Projects:
+* [Insight](https://github.com/harshit1142/Insight)
+* [NewsX](https://github.com/harshit1142/NewsX)
+* [e-commerce](https://github.com/harshit1142/e-commerce)
+* [BookStore](https://github.com/harshit1142/BookStore)
+* [albums](https://github.com/harshit1142/albums)
+* [Framer_Motion](https://github.com/harshit1142/Framer_Motion)
+
 
 ### ⚒️ Projects :
 * [Quizopia](https://github.com/harshit1142/Quizopia)
