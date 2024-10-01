@@ -35,7 +35,7 @@
 * [ProjectsHut](https://github.com/priyankarpal/projectshut)
 * [HackToberFest2023](https://github.com/thamesweb/HackToberFest2023)
 
-### 🚀 My Open-Source Projects:
+### 🚀 My Open-Source Projects [Feel feel to contribute]:
 * [Insight](https://github.com/harshit1142/Insight)
 * [NewsX](https://github.com/harshit1142/NewsX)
 * [e-commerce](https://github.com/harshit1142/e-commerce)
