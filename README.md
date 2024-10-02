@@ -116,10 +116,10 @@
 <hr/>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<p align="">
-<a href="https://www.linkedin.com/in/harshit-pandey-312b78245/"><img src="https://img.shields.io/badge/-harshit1142?style=round&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="https://harshitpandey0024.netlify.app/" ><img src="https://img.shields.io/badge/-harshit1142?style=flat&logo=Netlify&logoColor=white"/></a> -->
+<p align="left">
+<a href="https://twitter.com/harshit_0024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit_0024" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-pandey-312b78245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-pandey-312b78245" height="30" width="40" /></a>
+<a href="https://discord.gg/xTjj2g6N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xTjj2g6N" height="30" width="40" /></a>
 </p>
 
 
