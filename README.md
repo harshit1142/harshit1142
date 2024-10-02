@@ -15,11 +15,25 @@
 💬 &nbsp; Feel free to reach out to me.\
 ✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
+<hr/>
+
 ### ⭐ Live Projects :
 * [Quizopia](https://quizopia.vercel.app/)
 * [GoFood](https://gofood-kappa.vercel.app/)
 * [VeilVox](https://668c0f5a31558d6273631777--precious-klepon-33af0f.netlify.app/)
 <!-- * [Insight](https://harshit1142.github.io/Insight/) -->
+
+<hr/>
+
+### 🚀 My Open-Source Projects [Feel feel to contribute]:
+* [Insight](https://github.com/harshit1142/Insight)
+* [NewsX](https://github.com/harshit1142/NewsX)
+* [e-commerce](https://github.com/harshit1142/e-commerce)
+* [BookStore](https://github.com/harshit1142/BookStore)
+* [albums](https://github.com/harshit1142/albums)
+* [Framer_Motion](https://github.com/harshit1142/Framer_Motion)
+
+<hr/>
 
 ### 💻 Contributed to :
 * [matrix-movies-website](https://github.com/roannav/matrix-movies-website-hacktoberfest)
@@ -35,14 +49,7 @@
 * [ProjectsHut](https://github.com/priyankarpal/projectshut)
 * [HackToberFest2023](https://github.com/thamesweb/HackToberFest2023)
 
-### 🚀 My Open-Source Projects [Feel feel to contribute]:
-* [Insight](https://github.com/harshit1142/Insight)
-* [NewsX](https://github.com/harshit1142/NewsX)
-* [e-commerce](https://github.com/harshit1142/e-commerce)
-* [BookStore](https://github.com/harshit1142/BookStore)
-* [albums](https://github.com/harshit1142/albums)
-* [Framer_Motion](https://github.com/harshit1142/Framer_Motion)
-
+<hr/>
 
 ### ⚒️ Projects :
 * [Quizopia](https://github.com/harshit1142/Quizopia)
@@ -51,6 +58,8 @@
 * [Portfolio](https://github.com/harshit1142/portfolio)
 * [GoFood](https://github.com/harshit1142/GoFood)
 * [Insight](https://github.com/harshit1142/Insight)
+
+<hr/>
 
 ### 🛠 &nbsp;Tech Stack
 <img src="https://raw.githubusercontent.com/vitasha10/vitasha10/master/assets/Night-Coding.gif" align="right"/>
@@ -80,6 +89,7 @@
 
 </details>
 
+<hr/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <!-- * 
@@ -102,6 +112,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshit1142&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshit1142&theme=chartreuse_dark&utcOffset=8)
+
+<hr/>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="">
