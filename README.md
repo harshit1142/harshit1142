@@ -26,12 +26,89 @@
 <hr/>
 
 ### 🚀 My Open-Source Projects [Feel feel to contribute]:
+<!-- 
 * [Insight](https://github.com/harshit1142/Insight)
 * [NewsX](https://github.com/harshit1142/NewsX)
 * [e-commerce](https://github.com/harshit1142/e-commerce)
 * [BookStore](https://github.com/harshit1142/BookStore)
 * [albums](https://github.com/harshit1142/albums)
 * [Framer_Motion](https://github.com/harshit1142/Framer_Motion)
+-->
+
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td> Project </b></td>
+            <td><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="20" height="20"> Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Lady%20Beetle.png" width="20" height="20"> Issues</b></td>
+            <td><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Check%20Mark%20Button.png" width="20" height="20"> Open PRs</b></td>
+            <td><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Cross%20Mark.png" width="20" height="20"> Closed PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td> <a href="https://github.com/harshit1142/Insight">Insight</a> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshit1142/Insight?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshit1142/Insight?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshit1142/Insight?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshit1142/Insight?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshit1142/Insight?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    <tbody>
+         <tr>
+            <td> <a href="https://github.com/harshit1142/BookStore">BookStore</a> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshit1142/BookStore?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshit1142/BookStore?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshit1142/BookStore?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshit1142/BookStore?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshit1142/BookStore?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+    <tbody>
+         <tr>
+            <td> <a href="https://github.com/harshit1142/NewsX">NewsX</a> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshit1142/NewsX?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshit1142/NewsX?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshit1142/NewsX?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshit1142/NewsX?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshit1142/NewsX?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+    </tbody>
+    <tbody>
+         <tr>
+            <td> <a href="https://github.com/harshit1142/e-commerce">e-commerce</a> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshit1142/e-commerce?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshit1142/e-commerce?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshit1142/e-commerce?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshit1142/e-commerce?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshit1142/e-commerce?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+    </tbody>
+    <tbody>
+         <tr>
+            <td> <a href="https://github.com/harshit1142/albums">Albums</a> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshit1142/albums?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshit1142/albums?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshit1142/albums?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshit1142/albums?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshit1142/albums?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+    <tbody>
+         <tr>
+            <td> <a href="https://github.com/harshit1142/Framer_Motion">Framer_Motion</a> </td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/harshit1142/Framer_Motion?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/harshit1142/Framer_Motion?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/harshit1142/Framer_Motion?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/harshit1142/Framer_Motion?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/harshit1142/Framer_Motion?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>
+</table>
+
 
 <hr/>
 
