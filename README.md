@@ -13,7 +13,7 @@
 🌱 &nbsp; I'm on track to learning more about Web and UI design.\
 ✍️ &nbsp; Programming is the most important part of my life, but not the only one, I also play badminton and cricket as hobbies .\
 💬 &nbsp; Feel free to reach out to me.\
-✉️ &nbsp; You can email me at harshitinfinix8@gmail.com or write on any social network below. I'll try to respond as soon as I can.
+✉️ &nbsp; You can email me at harshitpandey4024@gmail.com or write on any social network below. I'll try to respond as soon as I can.
 
 <hr/>
 
