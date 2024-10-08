@@ -148,8 +148,9 @@
 ![Framer Motion](https://img.shields.io/badge/Framer-CA4245?style=flat&logo=framer&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/socket.io-%23404d50?style=flat&logo=socket.io&logoColor=yellow)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=flat&logo=html&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=flat&logo=css&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-hotpink.svg?style=flat&logo=Bootstrap&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/Mongodb-%23007ACC.svg?style=flat&logo=Mongodb&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=white)&nbsp;
