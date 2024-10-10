@@ -182,7 +182,7 @@
 </div>
 -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&theme=buefy-dark&hide_border=true&background=1a1b27"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit1142&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshit1142&margin-w=10&no-frame=true&row=2&theme=darkhub"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit1142&theme=chartreuse_dark)
 
