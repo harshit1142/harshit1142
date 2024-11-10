@@ -130,7 +130,7 @@
 
 ### ⚒️ Projects :
 * [Quizopia](https://github.com/harshit1142/Quizopia)
-* [Tabster](=https://github.com/lakshitrajput/Tabster)
+* [Tabster](https://github.com/lakshitrajput/Tabster)
 * [Collabor8](https://github.com/harshit1142/collabor8)
 * [VeilVox](https://github.com/harshit1142/VeilVox)
 * [Portfolio](https://github.com/harshit1142/portfolio)
