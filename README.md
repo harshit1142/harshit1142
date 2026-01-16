@@ -158,18 +158,18 @@
 ![MongoDB](https://img.shields.io/badge/Mongodb-%23007ACC.svg?style=flat&logo=Mongodb&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-
-
-<details>
-<summary>More Skills</summary>
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-0028d7.svg?style=flat&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=flat&logo=figma&logoColor=white)
 
-</details>
+<!--
+<details>
+ <summary>More Skills</summary>
+
+
+</details> -->
 
 <hr/>
 
@@ -183,9 +183,11 @@
   <br/>
   </a>
 </div>
--->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&theme=buefy-dark&hide_border=true&background=1a1b27"/>
   <img src="https://github-profile-trophy.vercel.app/?username=harshit1142&margin-w=10&no-frame=true&row=2&theme=darkhub"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1142&theme=buefy-dark&hide_border=true&background=1a1b27"/>
+-->
+
+  ![](https://github-trophies.vercel.app/?username=harshit1142)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit1142&theme=chartreuse_dark)
 
